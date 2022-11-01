@@ -7,7 +7,7 @@
     <groupId>hhgg</groupId>
     <artifactId>swiggy</artifactId>
     <version>1</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <resthub.spring.stack.version>2.1.4</resthub.spring.stack.version>
